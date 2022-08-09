@@ -15,9 +15,9 @@ def run_by_extension(source_file,ext):
     elif ext == "php":
         system(f"php {source_file} > output.txt")
     elif ext == "txt":
-        print("C'est un fichier texte")
-    #portion langages compilés 
-    #inutilisables à cause des restrictions android
+        print("File texte")
+    #Compiled languages
+
     """elif ext == "c":
         system(f"gcc {source_file} -o {beforedot} && ./{beforedot} > output.txt")"""
     file = open("output.txt","r").read()
