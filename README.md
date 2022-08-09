@@ -1,3 +1,5 @@
+====New version in master branch====
+
 # command_line_text_editor
 A python text editor based on while loop, able to write programs and execute them
 First, write the your file path in the first input Then, press Enter. When you finished writing, write @quit on the last line. You will have a menu, choose the integer before the text.
