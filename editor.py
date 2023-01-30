@@ -69,7 +69,8 @@ while 1:
         key = input()
         if key == "N":
             break
-
+        else:
+            os.system("clear")
         
 
             
