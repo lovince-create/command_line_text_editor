@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-import readline,os,sys,keyboard
+import readline,os,sys
 from couleur import *
 from extensions import *
 from end import end_sequence
